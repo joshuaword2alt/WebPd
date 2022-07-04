@@ -7,6 +7,7 @@ WebPd
 =====
 
 **WebPd** is a **100% JavaScript Pure Data runtime** using **Web Audio API** to play audio in the browser. It aims at allowing a subset of [Pure Data](http://crca.ucsd.edu/~msp/software.html) programming language to run in the browser without plugins and with best possible performance.
+More Info On [Pure Data](https://puredata.info/)
 
 **WebPd** should be supported by all [browsers supporting Web Audio API](http://caniuse.com/#search=web%20audio%20api).
 
