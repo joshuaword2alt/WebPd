@@ -1,4 +1,4 @@
-**NOTE** : Big changes coming !!! Check [HERE](https://github.com/sebpiq/WebPd/issues/113) for more info about the status of the project!
+**NOTE** : Big changes coming !!! Check [HERE](https://github.com/sebpiq/WebPd/issues/113) for more info about the status of the project! THIS IS OUTDATED
 
 [![Build Status](https://travis-ci.org/sebpiq/WebPd.png)](https://travis-ci.org/sebpiq/WebPd)
 [![Dependency status](https://david-dm.org/sebpiq/WebPd.svg)](https://david-dm.org/sebpiq/WebPd)
@@ -7,7 +7,7 @@ WebPd
 =====
 
 **WebPd** is a **100% JavaScript Pure Data runtime** using **Web Audio API** to play audio in the browser. It aims at allowing a subset of [Pure Data](http://crca.ucsd.edu/~msp/software.html) programming language to run in the browser without plugins and with best possible performance.
-More Info On [Pure Data](https://puredata.info/)
+More Info On [Pure Data](https://puredata.info/) source code [puredatacode](https://github.com/libpd/libpd)
 
 **WebPd** should be supported by all [browsers supporting Web Audio API](http://caniuse.com/#search=web%20audio%20api).
 
